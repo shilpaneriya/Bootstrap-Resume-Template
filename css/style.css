@@ -231,6 +231,11 @@ section {
 
 /********** AboutUS Section ******************/
 
+.about-row {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
 .border-bottom {
     border-bottom: 1px solid #e5e5e5;
 }
